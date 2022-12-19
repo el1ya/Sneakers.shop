@@ -1,2 +1,2 @@
-# Sneakers.shop
+# final project
 team project
